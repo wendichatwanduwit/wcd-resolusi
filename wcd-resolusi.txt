@@ -1,4 +1,5 @@
 WCD RESOLUSI
--Web Portfolio
--Web Hitung Gaji
-- Web Pengelolaan Surat Masuk Surat Keluar
+- membuat Web Portfolio
+- membuat Web Hitung Gaji
+- membuat Web Pengelolaan Surat Masuk Surat Keluar
+- membuat web absensi
